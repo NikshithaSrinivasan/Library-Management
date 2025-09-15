@@ -42,8 +42,7 @@ Star UML
 ![WhatsApp Image 2024-04-22 at 10 53 34_16eb72a8](https://github.com/23012653/Library-Management/assets/150777517/2f31d24c-730b-4797-adda-a9b6442f1160)
 
 ## CLASS DIAGRAM
-
-![WhatsApp Image 2024-04-22 at 10 53 21_cc4d6d72](https://github.com/23012653/Library-Management/assets/150777517/a97220cf-6921-4cdd-b487-1f80aa178c5e)
+<img width="853" height="634" alt="image" src="https://github.com/user-attachments/assets/4c17bd19-a1a3-4760-960f-c6246185f992" />
 
 ## ACTIVITY DIAGRAM
 ![WhatsApp Image 2024-04-22 at 10 52 04_c1bac566](https://github.com/23012653/Library-Management/assets/150777517/85c8d133-4aa0-4ca8-b06f-e9bf155ee8a2)
