@@ -21,39 +21,33 @@ done.
 In this module the user can cancel their name which is registered for the Book.
 ### SOFTWARE REQUIRMENTS:
 Star UML
-### STEPS
-1.Download Star UML.
+### UML Diagrams:
 
-2.Select Add model and select the model which you are going to draw.
+USE CASE DIAGRAM:
 
-3.Draw the diagram.
+![UseCaseDiagramLIB](https://github.com/user-attachments/assets/a055b87d-b086-43b5-88de-d1e83d5076fd)
 
-4.Save the diagram successfully.
+CLASS DIAGRAM:
 
-5.Execute it.
+![ClassDiagram1  LIB](https://github.com/user-attachments/assets/6307fa96-5997-4258-9018-6a10e7e9cee0)
 
-## UML Diagrams:
+ACTIVITY DIAGRAM:
 
-## DEVELOPED BY : NIKSHITHA S
-## REGISTER NUMBER : 212224040220
+![ActivityDiagram1 LIB](https://github.com/user-attachments/assets/7e3aadf1-baa4-4c8c-b592-92551d0866f6)
 
-## USE CASE DIAGRAM
+PACKAGE DIAGRAM:
 
-![WhatsApp Image 2024-04-22 at 10 53 34_16eb72a8](https://github.com/23012653/Library-Management/assets/150777517/2f31d24c-730b-4797-adda-a9b6442f1160)
+![PackageDiagram1 LIB](https://github.com/user-attachments/assets/2d417286-e213-41b9-9c1c-cced6cdc569b)
 
-## CLASS DIAGRAM
-<img width="853" height="634" alt="image" src="https://github.com/user-attachments/assets/4c17bd19-a1a3-4760-960f-c6246185f992" />
+SEQUENCE DIAGRAM:
 
-## ACTIVITY DIAGRAM
-![WhatsApp Image 2024-04-22 at 10 52 04_c1bac566](https://github.com/23012653/Library-Management/assets/150777517/85c8d133-4aa0-4ca8-b06f-e9bf155ee8a2)
-## SEQUENCE DIAGRAM
-![WhatsApp Image 2024-04-22 at 10 53 21_7d15c0fa](https://github.com/23012653/Library-Management/assets/150777517/ed6f132f-89c6-4d3d-8797-729cfc8c79ba)
-## COMMUNICATION DIAGRAM
-![WhatsApp Image 2024-04-22 at 10 53 21_4f032e68](https://github.com/23012653/Library-Management/assets/150777517/d732fec4-6b6e-4c13-b7cb-06b0307b6512)
-## STATECHART DIAGRAM
-![WhatsApp Image 2024-04-22 at 10 53 21_bc88555c](https://github.com/23012653/Library-Management/assets/150777517/a7730543-e452-4d08-8673-de2a4c0c87f5)
-## PACKAGE DIAGRAM
-![WhatsApp Image 2024-04-22 at 10 52 22_412af65a](https://github.com/23012653/Library-Management/assets/150777517/aafd63b3-0901-4b4e-bed4-6dc58a0d1e1a)
+![SequenceDiagram lib](https://github.com/user-attachments/assets/a941a344-59f9-49d5-9da2-a1f38637098b)
+
+COMMUNICATION DIAGRAM:
+
+![CommunicationDiagram lib](https://github.com/user-attachments/assets/ffa87b23-5043-4a16-826e-931539d42c3c)
+
+
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
